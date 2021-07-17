@@ -26,7 +26,7 @@ namespace ScriptureJournal.Models
                         Book = "Mormon",
                         Chapter = 5,
                         Verses = 23,
-                        Notes = "We are the hands of God"
+                        Notes = "We are the hands of God."
                     },
 
                     new Scripture
